@@ -3,6 +3,7 @@ Hi! 👋 Most of the opensourcey stuff I'm doing at the moment revolves around t
 - [Miniplex](https://github.com/hmans/miniplex), a gentle entity manager for games based on ECS architecture.
 - [ControlFreak](https://github.com/hmans/controlfreak), composable multi-device game input.
 - [Ingrid](https://github.com/hmans/ingrid), an implementation of Spatial Hash Grids.
+- [Trinity](https://github.com/hmans/trinity), a very WIP framework for rapid game development that ties many of these things together.
 
 Other noteworthy stuff I've published in the past:
 
