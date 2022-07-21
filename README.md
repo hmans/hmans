@@ -1,6 +1,7 @@
 Hi! 👋 Most of the opensourcey stuff I'm doing at the moment revolves around tooling for HTML5-native game development. Here are some of the projects I'm working on:
 
 - [Miniplex](https://github.com/hmans/miniplex), a gentle entity manager for games based on ECS architecture.
+- [shader-composer](https://github.com/hmans/miniplex), a library for creating GLSL shaders from a tree of JS primitives (think ShaderGraph et al, but code.)
 - [three-vfx](https://github.com/hmans/three-vfx), a high-performance, game-ready visual effects library for Three.js and react-three-fiber.
 - [ControlFreak](https://github.com/hmans/controlfreak), composable multi-device game input.
 - [Ingrid](https://github.com/hmans/ingrid), an implementation of Spatial Hash Grids.
