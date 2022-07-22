@@ -5,7 +5,7 @@ Hi! 👋 Most of the opensourcey stuff I'm doing at the moment revolves around t
 - [three-vfx](https://github.com/hmans/three-vfx), a high-performance, game-ready visual effects library for Three.js and react-three-fiber.
 - [ControlFreak](https://github.com/hmans/controlfreak), composable multi-device game input.
 - [Ingrid](https://github.com/hmans/ingrid), an implementation of Spatial Hash Grids.
-- [Trinity](https://github.com/hmans/trinity), a very WIP framework for rapid game development that ties many of these things together.
+- [create-react-game](https://github.com/hmans/create-react-game), a script for quickly bootstrapping new games powered by React and Three.js.
 
 Other noteworthy stuff I've published in the past:
 
