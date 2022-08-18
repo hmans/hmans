@@ -4,6 +4,7 @@ Hi! 👋 Most of the opensourcey stuff I'm doing at the moment revolves around t
 - 🌈 [Shader Composer](https://github.com/hmans/shader-composer), a library for creating GLSL shaders from a tree of JS primitives (think ShaderGraph et al, but code.)
 - 🎆 [VFX Composer](https://github.com/hmans/vfx-composer), a high-performance, game-ready visual effects library for Three.js and react-three-fiber.
 - ⏰ [Timeline Composer](https://github.com/hmans/timeline-composer), a small collection of React components for orchestrating high-level animation timelines.
+- 🖼 [Render Composer](https://github.com/hmans/render-composer), a preconfigured, customizable render pipeline for react-three-fiber games.
 - 🕹 [ControlFreak](https://github.com/hmans/controlfreak), composable multi-device game input.
 - [create-react-game](https://github.com/hmans/create-react-game), a script for quickly bootstrapping new games powered by React and Three.js.
 
