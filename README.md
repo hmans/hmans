@@ -13,4 +13,4 @@ Other noteworthy stuff I've published in the past:
 - [Statery](https://github.com/hmans/statery), a simple proxy-based state container for React.
 - [three-elements](https://github.com/hmans/three-elements), Web Components wrappers for Three.js.
 
-Get in touch! Find me [on Twitter](https://twitter.com/hmans) or [the Poimandres Discord](https://discord.gg/aAYjm2p7c7).
+Get in touch! Find me [on the Fediverse](https://norden.social/@hmans) or [the Poimandres Discord](https://discord.gg/aAYjm2p7c7).
