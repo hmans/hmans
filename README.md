@@ -1,16 +1,28 @@
-Hi! 👋 Most of the opensourcey stuff I'm doing at the moment revolves around tooling for HTML5-native game development. Here are some of the projects I'm working on:
+Hi! 👋 I'm an open source developer from Germany working on tooling for web-first game development. Here's an overview of my active projects. Follow my [public roadmap](https://github.com/users/hmans/projects/7) to see what I'm working on next. If you enjoy my work, please consider [sponsoring me on GitHub](https://github.com/sponsors/hmans).
 
-- 🎁 [Miniplex](https://github.com/hmans/miniplex), a gentle entity manager for games based on ECS architecture.
-- 🌈 [Shader Composer](https://github.com/hmans/shader-composer), a library for creating GLSL shaders from a tree of JS primitives (think ShaderGraph et al, but code.)
-- 🎆 [VFX Composer](https://github.com/hmans/vfx-composer), a high-performance, game-ready visual effects library for Three.js and react-three-fiber.
-- ⏰ [Timeline Composer](https://github.com/hmans/timeline-composer), a small collection of React components for orchestrating high-level animation timelines.
-- 🖼 [Render Composer](https://github.com/hmans/render-composer), a preconfigured, customizable render pipeline for react-three-fiber games.
-- 🕹 [ControlFreak](https://github.com/hmans/controlfreak), composable multi-device game input.
-- [create-react-game](https://github.com/hmans/create-react-game), a script for quickly bootstrapping new games powered by React and Three.js.
+## Projects
 
-Other noteworthy stuff I've published in the past:
+### State Management
 
-- [Statery](https://github.com/hmans/statery), a simple proxy-based state container for React.
+- 🤖 [Miniplex](https://github.com/hmans/miniplex), an Entity Component System library designed for ease-of-use and development ergonomics. Includes React bindings, but can also be used without a framework.
+- 🚜 [State Composer](https://github.com/hmans/composer-suite/tree/main/packages/state-composer), a high-level finite state machine library for macro state in React applications.
+- 🍍 [Statery](https://github.com/hmans/statery), a simple proxy-based state container for React.
+- ⏰ [Timeline Composer](https://github.com/hmans/timeline-composer), a small collection of React components for orchestrating timelines.
+
+### Graphics
+
+- 🌈 [Shader Composer](https://github.com/hmans/composer-suite/tree/main/packages/shader-composer), a library for creating GLSL shaders from a tree of JS primitives (think ShaderGraph et al, but code.)
+- 🎆 [VFX Composer](https://github.com/hmans/composer-suite/tree/main/packages/vfx-composer), a high-performance, game-ready visual effects library for Three.js and react-three-fiber.
+- 🖼 [Render Composer](https://github.com/hmans/composer-suite/tree/main/packages/render-composer), a preconfigured, customizable render pipeline for react-three-fiber games.
+
+### Noteworthy projects from the past
+
 - [three-elements](https://github.com/hmans/three-elements), Web Components wrappers for Three.js.
 
-Get in touch! Find me [on the Fediverse](https://norden.social/@hmans) or [the Poimandres Discord](https://discord.gg/aAYjm2p7c7).
+## Get in touch!
+
+There's a bunch of ways you can get in touch with me:
+
+- [hendrik@mans.de](mailto:hendrik@mans.de) for some old-school email
+- [@hmans@norden.social](https://norden.social/@hmans) on the Fediverse
+- Find me on the [Web Game Dev](https://webgamedev.com/discord) and [Poimandres](https://discord.gg/poimandres) Discord servers
