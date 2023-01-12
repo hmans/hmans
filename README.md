@@ -8,7 +8,10 @@ Hi! 👋 I'm an open source developer from Germany working on tooling for web-fi
 [![asteroid](/images/asteroid.jpg)](https://vfx-composer-examples.vercel.app/examples/scenes/asteroid)
 [![floating island](/images/floating-island.png)](https://shader-composer-examples.vercel.app/examples/floating-island)
 [![fog](/images/fog.png)](https://vfx-composer-examples.vercel.app/examples/fog)
+[![wonkout](/images/wonkout.png)](https://wonkout.vercel.app/)
+[![pong](/images/pong.png)](https://react-game-starter.vercel.app/)
 [![miniplex demo](/images/miniplex-demo.jpg)](https://miniplex-demo.vercel.app/)
+[![splodybox](/images/splodybox.png)](https://splodybox.vercel.app/)
 
 ## Projects
 
