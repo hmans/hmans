@@ -1,4 +1,6 @@
-Hi! 👋 I'm an open source developer from Germany working on tooling for web-first game development. Here's an overview of my active projects. Follow my [public roadmap](https://github.com/users/hmans/projects/7) to see what I'm working on right now, and what I will be working on next.
+## Hi! 👋
+
+I'm an open source developer from Germany working on tooling for web-first game development. Here's an overview of my active projects. Follow my [public roadmap](https://github.com/users/hmans/projects/7) to see what I'm working on right now, and what I will be working on next.
 
 **If you enjoy my work, please consider [sponsoring me on GitHub](https://github.com/sponsors/hmans)!**
 
