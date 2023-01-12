@@ -33,4 +33,5 @@ There's a bunch of ways you can get in touch with me:
 
 - [hendrik@mans.de](mailto:hendrik@mans.de) for some old-school email
 - [@hmans@norden.social](https://norden.social/@hmans) on the Fediverse
+- Via [LinkedIn](https://www.linkedin.com/in/hmans/), I'm not even kidding
 - Find me on the [Web Game Dev](https://webgamedev.com/discord) and [Poimandres](https://discord.gg/poimandres) Discord servers
