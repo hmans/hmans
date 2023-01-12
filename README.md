@@ -13,7 +13,7 @@ Hi! 👋 I'm an open source developer from Germany working on tooling for web-fi
 [![miniplex demo](/images/miniplex-demo.jpg)](https://miniplex-demo.vercel.app/)
 [![splodybox](/images/splodybox.png)](https://splodybox.vercel.app/)
 
-## Projects
+## Libraries
 
 ### State Management
 
