@@ -2,6 +2,12 @@ Hi! 👋 I'm an open source developer from Germany working on tooling for web-fi
 
 **If you enjoy my work, please consider [sponsoring me on GitHub](https://github.com/sponsors/hmans)!**
 
+## Demos, Games and Examples
+
+[![space scene](/images/space-scene.jpg)](https://space-scene-sandbox.vercel.app/)
+[![asteroid](/images/asteroid.jpg)](https://vfx-composer-examples.vercel.app/examples/scenes/asteroid)
+[![miniplex demo](/images/miniplex-demo.jpg)](https://miniplex-demo.vercel.app/)
+
 ## Projects
 
 ### State Management
