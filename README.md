@@ -6,6 +6,8 @@ Hi! 👋 I'm an open source developer from Germany working on tooling for web-fi
 
 [![space scene](/images/space-scene.jpg)](https://space-scene-sandbox.vercel.app/)
 [![asteroid](/images/asteroid.jpg)](https://vfx-composer-examples.vercel.app/examples/scenes/asteroid)
+[![floating island](/images/floating-island.png)](https://shader-composer-examples.vercel.app/examples/floating-island)
+[![fog](/images/fog.png)](https://vfx-composer-examples.vercel.app/examples/fog)
 [![miniplex demo](/images/miniplex-demo.jpg)](https://miniplex-demo.vercel.app/)
 
 ## Projects
