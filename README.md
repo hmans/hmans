@@ -21,30 +21,21 @@ I'm an open source developer from Germany working on tooling for web-first game 
 
 ### State Management
 
-- [Miniplex](https://github.com/hmans/miniplex)  
-  An Entity Component System library designed for ease-of-use and development ergonomics. Includes React bindings, but can also be used without a framework.
-- [State Composer](https://github.com/hmans/composer-suite/tree/main/packages/state-composer)  
-  A high-level finite state machine library for macro state in React applications.
-- [Statery](https://github.com/hmans/statery)  
-  A simple proxy-based state container for React.
-- [Eventery](https://github.com/hmans/eventery)  
-  A lightweight, dependency-free, typed publish-subscribe event emitter for JavaScript/TypeScript.
-- [Timeline Composer](https://github.com/hmans/timeline-composer)  
-  A small collection of React components for orchestrating timelines.
+- 🤖 [Miniplex](https://github.com/hmans/miniplex), an Entity Component System library designed for ease-of-use and development ergonomics. Includes React bindings, but can also be used without a framework.
+- 🚜 [State Composer](https://github.com/hmans/composer-suite/tree/main/packages/state-composer), a high-level finite state machine library for macro state in React applications.
+- 🎃 [Eventery](https://github.com/hmans/eventery), a lightweight, dependency-free, typed publish-subscribe event emitter for JavaScript/TypeScript.
+- 🍍 [Statery](https://github.com/hmans/statery), a simple proxy-based state container for React.
+- ⏰ [Timeline Composer](https://github.com/hmans/timeline-composer), a small collection of React components for orchestrating timelines.
 
 ### Graphics
 
-- [Shader Composer](https://github.com/hmans/composer-suite/tree/main/packages/shader-composer)  
-  A library for creating GLSL shaders from a tree of JS primitives (think ShaderGraph et al, but code.)
-- [VFX Composer](https://github.com/hmans/composer-suite/tree/main/packages/vfx-composer)  
-  A high-performance, game-ready visual effects library for Three.js and react-three-fiber.
-- [Render Composer](https://github.com/hmans/composer-suite/tree/main/packages/render-composer)  
-  A preconfigured, customizable render pipeline for react-three-fiber games.
+- 🌈 [Shader Composer](https://github.com/hmans/composer-suite/tree/main/packages/shader-composer), a library for creating GLSL shaders from a tree of JS primitives (think ShaderGraph et al, but code.)
+- 🎆 [VFX Composer](https://github.com/hmans/composer-suite/tree/main/packages/vfx-composer), a high-performance, game-ready visual effects library for Three.js and react-three-fiber.
+- 🖼 [Render Composer](https://github.com/hmans/composer-suite/tree/main/packages/render-composer), a preconfigured, customizable render pipeline for react-three-fiber games.
 
 ### Noteworthy projects from the past
 
-- [three-elements](https://github.com/hmans/three-elements)  
-  Web Components wrappers for Three.js.
+- [three-elements](https://github.com/hmans/three-elements), Web Components wrappers for Three.js.
 
 ## Get in touch!
 
